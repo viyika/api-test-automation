@@ -1,3 +1,3 @@
-# Karate Template
+# Karate API Test automation Framework
 
-Refer to the [Getting Started Guide](https://github.com/karatelabs/karate/wiki/Get-Started:-Maven-and-Gradle#github-template) for instructions.
+Will be updated once APIs are built and ready for testing
